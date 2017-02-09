@@ -1,4 +1,10 @@
-# General Functional Programming
+# Functional Programming Books
+
+This is a curated list of books that I have found useful regarding deep learning. Only books that add significant value to understanding the topic are listed.
+
+
+
+## General Functional Programming
 
   * __Structure and Interpretation of Computer Programs__  
     _Harold Abelson and Gerald Jay Sussman_  
@@ -14,7 +20,7 @@
     
 
 
-# Functional Programming Algorithms and Data Structures
+## Functional Programming Algorithms and Data Structures
 
   * __Purely Functional Data Structures__  
     _Chris Okasaki_
@@ -24,7 +30,7 @@
   
   
 	
-# OCaml 
+## OCaml 
 
  * __Introduction To Objective Caml__  
    _Jason Hickey_
@@ -43,6 +49,3 @@
  
  * __More OCaml: Algorithms, Methods and Diversions__  
     _John Whittington_
-
- * __Practical OCaml__    
-    _Joshua B. Smith_
