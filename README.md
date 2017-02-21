@@ -1,6 +1,8 @@
-# Functional Programming Books
+# Functional Programming Resources
 
-This is a curated list of books that I have found useful regarding deep learning. Only books that add significant value to understanding the topic are listed.
+This is a curated list of resources that I have found useful regarding 
+functional programming. Only books that add significant value to understanding 
+the topic are listed.  There are also some online resources and articles.
 
 
 
@@ -49,3 +51,10 @@ This is a curated list of books that I have found useful regarding deep learning
  
  * __More OCaml: Algorithms, Methods and Diversions__  
     _John Whittington_
+
+
+
+## Online Resources
+
+  * [99 Problems](http://ocaml.org/learn/tutorials/99problems.html)
+  
