@@ -1,4 +1,4 @@
-# Functional Programming Learning Resources
+# Functional Programming Resources
 
 This is a curated list of resources that I have found useful regarding 
 functional programming. Only books that add significant value to understanding 
